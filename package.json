@@ -1,0 +1,28 @@
+{
+  "name": "node-api-helloworld",
+  "version": "0.0.0",
+  "description": "first nodeJS api",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neufeldtech/node-api-helloworld.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "javascript",
+    "api",
+    "express"
+  ],
+  "author": "neufeldtech",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/neufeldtech/node-api-helloworld/issues"
+  },
+  "homepage": "https://github.com/neufeldtech/node-api-helloworld#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "mongoose": "^4.1.9"
+  }
+}
